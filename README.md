@@ -26,4 +26,5 @@ A casual roguelite game using a desktop cursor as the main character. The player
 ## 🎯 Why It Matters
 This was a learning project to explore Cursor AI and game architecture. The idea is shelved for now, but the experience directly informs future projects I’m developing.
 
-### Note: This project was designed to evaluate the capabilities of Cursor AI. The results showed that while Cursor AI performs impressively in frontend development—especially for rapid prototyping and UI generation—it struggles significantly with backend logic, architecture, and debugging.
+## 📝 Note 
+This project was designed to evaluate the capabilities of Cursor AI. The results showed that while Cursor AI performs impressively in frontend development—especially for rapid prototyping and UI generation—it struggles significantly with backend logic, architecture, and debugging.
