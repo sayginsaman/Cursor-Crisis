@@ -1,0 +1,93 @@
+{
+  "game": {
+    "title": "Desktop Survivor Dash",
+    "version": "1.0.0",
+    "target_fps": 60,
+    "physics_fps": 120
+  },
+  "window": {
+    "width": 1280,
+    "height": 720,
+    "fullscreen": false,
+    "vsync": true,
+    "resizable": true,
+    "min_width": 800,
+    "min_height": 600
+  },
+  "graphics": {
+    "quality": "medium",
+    "anti_aliasing": true,
+    "particles": true,
+    "effects": true,
+    "shadows": false
+  },
+  "audio": {
+    "master_volume": 80,
+    "sound_volume": 75,
+    "music_volume": 65,
+    "enabled": true
+  },
+  "gameplay": {
+    "difficulty": "normal",
+    "auto_pause": true,
+    "show_damage_numbers": true,
+    "screen_shake": true,
+    "cursor_trail": true
+  },
+  "player": {
+    "starting_health": 100,
+    "starting_speed": 200,
+    "starting_damage": 10,
+    "invincibility_time": 1.5,
+    "respawn_time": 3.0
+  },
+  "enemies": {
+    "spawn_rate_multiplier": 1.0,
+    "health_multiplier": 1.0,
+    "damage_multiplier": 1.0,
+    "speed_multiplier": 1.0,
+    "max_enemies": 50
+  },
+  "waves": {
+    "base_duration": 30.0,
+    "difficulty_scaling": 1.15,
+    "boss_every": 5,
+    "enemy_count_multiplier": 1.2
+  },
+  "upgrades": {
+    "choices_per_level": 3,
+    "max_upgrade_level": 10,
+    "experience_multiplier": 1.0
+  },
+  "ui": {
+    "hud_scale": 1.0,
+    "minimap_enabled": true,
+    "fps_counter": false,
+    "debug_info": false
+  },
+  "network": {
+    "api_base_url": "http://localhost:3000/api",
+    "timeout": 30000,
+    "retry_attempts": 3,
+    "auto_login": true
+  },
+  "controls": {
+    "mouse_sensitivity": 1.0,
+    "invert_y": false,
+    "keyboard_bindings": {
+      "pause": "Escape",
+      "inventory": "I",
+      "stats": "Tab",
+      "upgrade_menu": "U",
+      "screenshot": "F12",
+      "fullscreen": "F11"
+    }
+  },
+  "steam": {
+    "app_id": 0,
+    "achievements_enabled": true,
+    "cloud_saves": true,
+    "workshop_enabled": true,
+    "overlay_enabled": true
+  }
+} 
