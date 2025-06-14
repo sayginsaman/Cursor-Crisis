@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/DesktopSurvivorDash.dir/libs/imgui/backends/imgui_impl_opengl3.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/libs/imgui/backends/imgui_impl_opengl3.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/libs/imgui/backends/imgui_impl_sdl2.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/libs/imgui/backends/imgui_impl_sdl2.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/libs/imgui/imgui.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/libs/imgui/imgui.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/libs/imgui/imgui_draw.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/libs/imgui/imgui_draw.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/libs/imgui/imgui_tables.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/libs/imgui/imgui_tables.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/libs/imgui/imgui_widgets.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/libs/imgui/imgui_widgets.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/Audio.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/Audio.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/AuthChoiceState.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/AuthChoiceState.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/AuthNetworkManager.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/AuthNetworkManager.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/Game.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/Game.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/HomeState.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/HomeState.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/Input.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/Input.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/MenuState.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/MenuState.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/NetworkManager.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/NetworkManager.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/PlayState.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/PlayState.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/Renderer.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/Renderer.cpp.o.d"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/main.cpp.o"
+  "CMakeFiles/DesktopSurvivorDash.dir/src/main.cpp.o.d"
+  "DesktopSurvivorDash.app/Contents/MacOS/DesktopSurvivorDash"
+  "DesktopSurvivorDash.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/DesktopSurvivorDash.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
