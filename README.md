@@ -14,7 +14,7 @@ A casual roguelite game featuring a desktop cursor as the main character. Player
 
 ### Backend
 - **Node.js with Express.js**: RESTful API server
-- **MongoDB**: User data, progress, and achievements storage
+- **Supabase**: User data, progress, and achievements storage
 - **JWT**: Authentication and session management
 
 ### Frontend
@@ -46,7 +46,7 @@ Desktop-Survivor-Dash/
 ### Backend Setup
 1. Navigate to the backend directory: `cd backend`
 2. Install dependencies: `npm install`
-3. Set up MongoDB connection in `.env`
+3. Set up Supabase connection in `.env`
 4. Start the server: `npm run dev`
 
 ### Frontend Setup
@@ -78,7 +78,7 @@ Desktop-Survivor-Dash/
 - **C++ Compiler**: GCC 9+ or Clang 10+ or MSVC 2019+
 - **CMake**: 3.16+
 - **Node.js**: 16+
-- **MongoDB**: 5.0+
+- **Supabase**: 5.0+
 
 ## 🤝 Contributing
 
