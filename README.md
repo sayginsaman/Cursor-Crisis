@@ -1,4 +1,4 @@
-# Desktop Survivor Dash
+# Cursor Crisis
 
 A casual roguelite game featuring a desktop cursor as the main character. Players battle through waves of desktop-themed enemies on a virtual desktop environment, collecting power-ups, upgrades, and unlocking new skins.
 
@@ -99,3 +99,9 @@ This game is designed for Steam distribution with:
 - Steam Achievements system
 - Steam Cloud save synchronization
 - Steam Leaderboards integration 
+
+## 📝 Note
+
+This project was created using Cursor AI to evaluate its capabilities. The results showed that while Cursor AI performs exceptionally well in frontend development, it struggles significantly with backend functionality and reliability.
+
+
